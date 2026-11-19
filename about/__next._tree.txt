@@ -1,4 +1,4 @@
-:HL["/timetoparty-site/_next/static/chunks/081czj9hsq_m1.css","style"]
+:HL["/timetoparty-site/_next/static/chunks/0pvsob2rdtbdx.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"about","h":96,"c":"$Q2"}]]
-0:{"b":"rDRck6trszvZ8XwXFl5F1","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"DwZ9v_EeO4ZTfF34pO06R","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

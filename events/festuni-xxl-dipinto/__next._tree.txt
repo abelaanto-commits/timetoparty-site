@@ -1,5 +1,5 @@
-:HL["/timetoparty-site/_next/static/chunks/081czj9hsq_m1.css","style"]
+:HL["/timetoparty-site/_next/static/chunks/0pvsob2rdtbdx.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"festuni-xxl-dipinto","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"events","h":131168,"c":"$Q2"}]]
-0:{"b":"rDRck6trszvZ8XwXFl5F1","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"DwZ9v_EeO4ZTfF34pO06R","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
