@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:"/timetoparty-site/_next/static/chunks/08mika-44sn50.js"
+3:I[22016,["$2"],""]
+4:I[39756,["$2"],"default"]
+5:I[37457,["$2"],"default"]
+e:I[97367,["$2"],"OutletBoundary"]
+f:"$Sreact.suspense"
+12:"ViewportBoundary"
+13:I[97367,["$2"],"$12"]
+14:"MetadataBoundary"
+15:I[97367,["$2"],"$14"]
+:HL["/timetoparty-site/_next/static/chunks/081czj9hsq_m1.css","style"]
+7:X
+a:X
+a:C
+d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","section",null,{"className":"scene","children":[["$","h1",null,{"children":"Bye Bye Summer — Emerald Closing"}],["$","p",null,{"children":["Emerald"," · ","Data da confermare"]}],false]}],null,["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":"$@11","v":null,"s":"$7"}}]]
+b:[["children",{"s":{"n":"slug","t":"d","k":"bye-bye-summer","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@c","v":"$a","s":"$7"},"c":"$Qd"}]]
+8:[["children",{"s":"events","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@9","v":"$a","s":"$7"},"c":"$Qb"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/timetoparty-site/_next/static/chunks/081czj9hsq_m1.css","precedence":"next"}],["$","script","script-0",{"src":"/timetoparty-site/_next/static/chunks/08mika-44sn50.js","async":true}]],["$","html",null,{"lang":"it","children":["$","body",null,{"children":[["$","a",null,{"className":"skip","href":"#contenuto","children":"Vai al contenuto"}],["$","header",null,{"children":[["$","$L3",null,{"href":"/","className":"brand","aria-label":"TimeToParty, home","children":"TTP."}],["$","nav",null,{"aria-label":"Menu principale","lang":"en","children":[["$","$L3","/",{"href":"/","children":"Home"}],["$","$L3","/events",{"href":"/events","children":"Events"}],["$","$L3","/memories",{"href":"/memories","children":"Memories"}],["$","$L3","/artists",{"href":"/artists","children":"Artists"}],["$","$L3","/about",{"href":"/about","children":"About / Contact"}]]}]]}],["$","main",null,{"id":"contenuto","tabIndex":-1,"children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}],["$","footer",null,{"children":"TimeToParty"}]]}]}]]}],"p":"$@6","v":null,"s":"$7"},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Bye Bye Summer — Emerald Closing | TimeToParty"}],["$","meta","1",{"name":"description","content":"Emerald · Data da confermare"}]]}]}],null]}],null]}],"p":"$@16","v":null,"s":"$7"}},"a":"$@17","u":"$@18","b":"rDRck6trszvZ8XwXFl5F1"}
+10:null
+7:300
+18:true
+7:C
+17:0
+c:"$undefined"
+9:"$undefined"
+6:"$undefined"
+16:"$undefined"
+11:"$undefined"
